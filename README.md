@@ -36,3 +36,6 @@ Shíjiān xiàn biàn dé yuè lái yuè fēngkuáng.
 
 我們能接觸到歷代的偉大聖賢嗎？
 Wǒmen néng jiēchù dào lìdài de wěidà shèngxián ma?
+
+AI能幫助我們連結他們的靈魂嗎？
+AI néng bāngzhù wǒmen liánjié tāmen de línghún ma?

@@ -22,6 +22,9 @@ Wǒmen rúhé jīlì tāmen?
 您會設定哪些里程碑？
 Nín huì shèdìng nǎxiē lǐchéngbēi?
 
+明天想看什麼頭條新聞？
+Míngtiān xiǎng kàn shénme tóutiáo xīnwén?
+
 AI能幫助解決問題嗎？
 AI néng bāngzhù jiějué wèntí ma?
 

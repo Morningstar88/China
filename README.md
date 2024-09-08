@@ -33,3 +33,6 @@ Rúguǒ yīgèrén jiějuéle wèntí, nàme měi gèrén dōu kěyǐ jiějué t
 
 時間線變得越來越瘋狂。
 Shíjiān xiàn biàn dé yuè lái yuè fēngkuáng.
+
+我們能接觸到歷代的偉大聖賢嗎？
+Wǒmen néng jiēchù dào lìdài de wěidà shèngxián ma?

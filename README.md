@@ -22,5 +22,8 @@ Wǒmen rúhé jīlì tāmen?
 您會設定哪些里程碑？
 Nín huì shèdìng nǎxiē lǐchéngbēi?
 
+AI能幫助解決問題嗎？
+AI néng bāngzhù jiějué wèntí ma?
+
 如果一個人解決了問題，那麼每個人都可以解決它。
 Rúguǒ yīgèrén jiějuéle wèntí, nàme měi gèrén dōu kěyǐ jiějué tā.

@@ -7,7 +7,17 @@
 健康文明的真正關鍵是什麼？
 Jiànkāng wénmíng de zhēnzhèng guānjiàn shì shénme?
 
-如果最聪明的人相互竞争会怎么样？Rúguǒ zuì cōngmíng de rén xiānghù jìngzhēng huì zěnme yàng? 
+最聪明的人正在竞争。
+Zuì cōngmíng de rén zhèngzài jìngzhēng.
+
+是竞相帮助工人阶级？
+Shì jìngxiāng bāngzhù gōngrén jiējí? 
+
+还是竞相镇压工人阶级？
+Háishì jìngxiāng zhènyā gōngrén jiējí?
+
+这是一个复杂的问题，有很多层面。
+Zhè shì yīgè fùzá de wèntí, yǒu hěnduō céngmiàn.
 
 什么竞争？
 Shénme jìngzhēng? 

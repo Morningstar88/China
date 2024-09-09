@@ -77,8 +77,17 @@ Shíjiān xiàn biàn dé yuè lái yuè fēngkuáng.
 Wǒmen néng jiēchù dào lìdài de wěidà shèngxián ma?
 
 AI能幫助我們連結他們的靈魂嗎？
-
 AI néng bāngzhù wǒmen liánjié tāmen de línghún ma?
+
+20% 意识形态。一颗璀璨的星星。
+20% Yìshí xíngtài. Yī kē cuǐcàn de xīngxīng. 
+
+80% 工程。
+80% Gōngchéng.
+
+就像辣椒和小麦一样，找到平衡。
+Jiù xiàng làjiāo hé xiǎomài yīyàng, zhǎodào pínghéng.
+
 
 ## NOTES TO IMPORT
 

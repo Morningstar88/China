@@ -105,9 +105,26 @@ Jiù xiàng làjiāo hé xiǎomài yīyàng, zhǎodào pínghéng.
 枪和钱。
 Qiāng hé qián.
 
+我记得十岁的时候去过一家美国超市。
+Wǒ jìdé shí suì de shíhòu qùguò yījiā měiguó chāoshì.
 
+面包就像海绵一样。可以用来清洁厨房。但吃起来却很糟糕。
+Miànbāo jiù xiàng hǎimián yīyàng. Kěyǐ yòng lái qīngjié chúfáng. Dàn chī qǐlái què hěn zāogāo.
 
+你了解我正走在钢丝上吗？
+Nǐ liǎojiě wǒ zhèng zǒu zài gāngsī shàng ma?
 
+我必须推动改变。
+Wǒ bìxū tuīdòng gǎibiàn.
+
+但我不能过分侮辱任何国家。
+Dàn wǒ bùnéng guòfèn wǔrǔ rènhé guójiā.
+
+小心那个外来捣蛋鬼，他总是有坏主意。 Xiǎoxīn nàgè wàilái dǎodàn guǐ, tā zǒng shì yǒu huài zhǔyì.
+
+那个大鼻子坏蛋又在捣乱了！ Nàgè dà bízi huàidàn yòu zài dǎoluàn le!
+
+境外势力正在试图破坏我们的稳定。 Jìngwài shìlì zhèngzài shìtú pòhuài wǒmen de wěndìng. - “Overseas forces are trying to undermine our stability.”
 
 # USEFUL PHRASES
 
@@ -123,11 +140,35 @@ WHY NOT - ALTERNATIVE METHODS
 要不我们明天再来？(Yàobù wǒmen míngtiān zài lái?) - “How about we come back tomorrow?”
 不如 (bùrú): This means “it would be better to” or “why not.”
 不如我们试试这个方法？(Bùrú wǒmen shìshì zhège fāngfǎ?) - “Why don’t we try this method?”
+Sure! Here are some serious and humorous mock-suspicious phrases in Mandarin that refer to "foreign influence," "alien agitator," and "big-nosed scoundrel":
+
+### Serious Phrases
+1. **外来势力** (wàilái shìlì) - Foreign influence
+   - Example: 我们必须警惕外来势力的干涉。 (Wǒmen bìxū jǐngtì wàilái shìlì de gānshè.) - "We must be vigilant against foreign influence."
+
+2. **外部干涉** (wàibù gānshè) - External interference
+   - Example: 这些问题可能是外部干涉的结果。 (Zhèxiē wèntí kěnéng shì wàibù gānshè de jiéguǒ.) - "These issues might be the result of external interference."
+
+3. **境外势力** (jìngwài shìlì) - Overseas forces
+   - Example: 境外势力正在试图破坏我们的稳定。 (Jìngwài shìlì zhèngzài shìtú pòhuài wǒmen de wěndìng.) - "Overseas forces are trying to undermine our stability."
+
+### Humorous Phrases
+1. **外星搅局者** (wàixīng jiǎojú zhě) - Alien agitator
+   - Example: 你听说了吗？他被称为外星搅局者！ (Nǐ tīngshuō le ma? Tā bèi chēngwéi wàixīng jiǎojú zhě!) - "Did you hear? He's being called an alien agitator!"
+
+2. **大鼻子坏蛋** (dà bízi huàidàn) - Big-nosed scoundrel
+   - Example: 那个大鼻子坏蛋又在捣乱了！ (Nàgè dà bízi huàidàn yòu zài dǎoluàn le!) - "That big-nosed scoundrel is causing trouble again!"
+
+3. **外来捣蛋鬼** (wàilái dǎodàn guǐ) - Foreign troublemaker
+   - Example: 小心那个外来捣蛋鬼，他总是有坏主意。 (Xiǎoxīn nàgè wàilái dǎodàn guǐ, tā zǒng shì yǒu huài zhǔyì.) - "Watch out for that foreign troublemaker, he always has bad ideas."
+
+
+*
 
 
 
 
-## NOTES TO IMPORT
+## OPEN SOURCE SUCCESS IN CHINA.
 
 Yes, the Chinese Communist Party (CCP) has a complex relationship with GitHub. On one hand, GitHub is an essential platform for developers and tech companies, including those in China, to collaborate and share code. On the other hand, it also hosts content that the CCP finds sensitive or subversive.
 

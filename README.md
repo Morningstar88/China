@@ -70,6 +70,8 @@ Zìjǐ zhìfù shì guāngróng de, bāngzhù tóngbāo zhìfù gèng shì shuā
 我們如何激勵他們？
 Wǒmen rúhé jīlì tāmen?
 
+
+
 您會設定哪些里程碑？
 Nín huì shèdìng nǎxiē lǐchéngbēi?
 
@@ -102,6 +104,27 @@ Jiù xiàng làjiāo hé xiǎomài yīyàng, zhǎodào pínghéng.
 
 枪和钱。
 Qiāng hé qián.
+
+
+
+
+
+# USEFUL PHRASES
+
+
+WHY NOT - ALTERNATIVE METHODS
+干嘛不 (gànmá bù): more colloquial way.
+干嘛不试试呢？(Gànmá bù shìshì ne?) - “Why not give it a try?”
+何不 (hé bù): This is a more formal or literary way to suggest an action.
+何不一试？(Hé bù yī shì?) - “Why not give it a try?”
+为什么不考虑 (wèishéme bù kǎolǜ): This phrase means “why not consider.”
+为什么不考虑其他方法？(Wèishéme bù kǎolǜ qítā fāngfǎ?) - “Why not consider other methods?”
+要不 (yàobù): This is a casual way to suggest an alternative.
+要不我们明天再来？(Yàobù wǒmen míngtiān zài lái?) - “How about we come back tomorrow?”
+不如 (bùrú): This means “it would be better to” or “why not.”
+不如我们试试这个方法？(Bùrú wǒmen shìshì zhège fāngfǎ?) - “Why don’t we try this method?”
+
+
 
 
 ## NOTES TO IMPORT

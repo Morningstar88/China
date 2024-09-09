@@ -166,7 +166,9 @@ Sure! Here are some serious and humorous mock-suspicious phrases in Mandarin tha
 *
 
 
+## Interesting Reddit Discussions
 
+https://www.reddit.com/r/programming/search/?q=china&type=link&cId=b00eb4a0-a3fe-4793-be5d-502fe4c7a061&iId=c834a4e5-e0fd-4fb4-9d6f-ce1a099b1b9f
 
 ## OPEN SOURCE SUCCESS IN CHINA.
 

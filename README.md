@@ -7,7 +7,14 @@
 健康文明的真正關鍵是什麼？
 Jiànkāng wénmíng de zhēnzhèng guānjiàn shì shénme?
 
-如果最聪明的人相互竞争会怎么样？什么竞争？竞争是为了帮助工人阶级。Rúguǒ zuì cōngmíng de rén xiānghù jìngzhēng huì zěnme yàng? Shénme jìngzhēng? Jìngzhēng shì wèile bāngzhù gōngrén jiējí.
+如果最聪明的人相互竞争会怎么样？Rúguǒ zuì cōngmíng de rén xiānghù jìngzhēng huì zěnme yàng? 
+
+什么竞争？
+Shénme jìngzhēng? 
+
+竞争是为了帮助工人阶级。
+Jìngzhēng shì wèile bāngzhù gōngrén jiējí.
+
 
 我们如何激励他们？鼓舞人心的演讲？我想是的。
 Wǒmen rúhé jīlì tāmen? Gǔwǔ rénxīn de yǎnjiǎng? Wǒ xiǎng shì de. 
@@ -26,6 +33,9 @@ Zìjǐ zhìfù shì guāngróng de, bāngzhù tóngbāo zhìfù shì shuāng xǐ
 
 我們如何衡量進展？
 Wǒmen rúhé héngliáng jìnzhǎn?
+
+自己致富是光荣的，帮助同胞致富更是双倍的光荣。
+Zìjǐ zhìfù shì guāngróng de, bāngzhù tóngbāo zhìfù gèng shì shuāng bèi de guāngróng.
 
 我們如何激勵他們？
 Wǒmen rúhé jīlì tāmen?

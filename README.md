@@ -34,11 +34,20 @@ Yěxǔ wǒ kěyǐ chéngwéi yī míng lìzhì yǎnshuō jiā.
 您真的想再听一次烂蛋糕励志演讲吗？
 Nín zhēn de xiǎng zài tīng yīcì làn dàngāo lìzhì yǎnjiǎng ma?
 
-我相信你们所有人！我们齐心协力就能取得胜利。我们所有人都将拥有更加光明的未来。
-Wǒ xiāngxìn nǐmen suǒyǒu rén! Wǒmen qíxīn xiélì jiù néng qǔdé shènglì. Wǒmen suǒyǒu rén dōu jiāng yǒngyǒu gèngjiā guāngmíng de wèilái.
+我相信你们所有人！
+Wǒ xiāngxìn nǐmen suǒyǒu rén!
+
+我们齐心协力就能取得胜利。我们所有人都将拥有更加光明的未来。
+Wǒmen qíxīn xiélì jiù néng qǔdé shènglì. Wǒmen suǒyǒu rén dōu jiāng yǒngyǒu gèngjiā guāngmíng de wèilái.
+
+用钱更容易。
+Yòng qián gèng róngyì.
 
 自己致富是光荣的，帮助同胞致富是双喜临门的光荣。
 Zìjǐ zhìfù shì guāngróng de, bāngzhù tóngbāo zhìfù shì shuāng xǐlínmén de guāngróng.
+
+20% 意识形态。一颗璀璨的星星。80% 工程。就像辣椒和小麦一样，找到平衡。
+20% Yìshí xíngtài. Yī kē cuǐcàn de xīngxīng.80% Gōngchéng. Jiù xiàng làjiāo hé xiǎomài yīyàng, zhǎodào pínghéng.
 
 我們如何衡量進展？
 Wǒmen rúhé héngliáng jìnzhǎn?

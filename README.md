@@ -3,12 +3,14 @@
 ![image](https://github.com/user-attachments/assets/2e8cd1f2-e4f5-420c-a6dc-44a806101fc7)
 
 
-
 健康文明的真正關鍵是什麼？
 Jiànkāng wénmíng de zhēnzhèng guānjiàn shì shénme?
 
 最聪明的人正在竞争。
 Zuì cōngmíng de rén zhèngzài jìngzhēng.
+
+但什么竞争？
+Dàn shénme jìngzhēng?
 
 是竞相帮助工人阶级？
 Shì jìngxiāng bāngzhù gōngrén jiējí? 

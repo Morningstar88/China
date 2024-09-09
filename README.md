@@ -134,3 +134,20 @@ Source: Conversation with Copilot, 9/9/2024
 (6) undefined. https://huggingface.co/datasets/augmxnt/deccp.
 (7) undefined. https://huggingface.co/augmxnt/Qwen2-7B-Instruct-deccp.
 (8) undefined. https://huggingface.co/blog/leonardlin/chinese-llm-censorship-analysis.
+
+*
+
+The Tiananmen Square protests of 1989 were a significant event in Chinese history. They were primarily student-led demonstrations calling for political reform, freedom of speech, and an end to corruption. The protests began in April 1989 and culminated in a violent crackdown by the Chinese government on June 3-4, 1989²³.
+
+Deng Xiaoping, who was the paramount leader of China at the time, played a crucial role in the government's response. Initially, there were internal debates within the Communist Party on how to handle the protests, with some advocating for concessions and others for a hardline approach. Ultimately, the hardliners prevailed, and martial law was declared³. The military was deployed to Tiananmen Square, resulting in a tragic loss of life²³.
+
+The exact number of casualties remains unknown, but estimates range from several hundred to several thousand³. The events of Tiananmen Square had a profound impact on China's political landscape and are still a sensitive topic in the country today³.
+
+If you have any more questions or need further details, feel free to ask.
+
+Source: Conversation with Copilot, 9/9/2024
+(1) 1989 Tiananmen Square protests and massacre - Wikipedia. https://en.wikipedia.org/wiki/1989_Tiananmen_Square_protests_and_massacre.
+(2) Tiananmen Square: What happened in the protests of 1989? - BBC. https://www.bbc.com/news/world-asia-48445934.
+(3) . https://bing.com/search?q=deng+xiaoping+tianamen+square.
+(4) Deng Xiaoping's southern tour - Wikipedia. https://en.wikipedia.org/wiki/Deng_Xiaoping%27s_southern_tour.
+(5) Tiananmen Square, 1989 - Office of the Historian. https://history.state.gov/milestones/1989-1992/tiananmen-square.

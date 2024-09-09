@@ -28,6 +28,15 @@ Jù'é xiànjīn jiǎnglì. Kāiyuán xiàngmù.
 这已经发生了。中国有很多开源项目。
 Zhè yǐjīng fāshēngle. Zhōngguó yǒu hěnduō kāiyuán xiàngmù.
 
+也许我可以成为一名励志演说家。
+Yěxǔ wǒ kěyǐ chéngwéi yī míng lìzhì yǎnshuō jiā.
+
+您真的想再听一次烂蛋糕励志演讲吗？
+Nín zhēn de xiǎng zài tīng yīcì làn dàngāo lìzhì yǎnjiǎng ma?
+
+我相信你们所有人！我们齐心协力就能取得胜利。我们所有人都将拥有更加光明的未来。
+Wǒ xiāngxìn nǐmen suǒyǒu rén! Wǒmen qíxīn xiélì jiù néng qǔdé shènglì. Wǒmen suǒyǒu rén dōu jiāng yǒngyǒu gèngjiā guāngmíng de wèilái.
+
 自己致富是光荣的，帮助同胞致富是双喜临门的光荣。
 Zìjǐ zhìfù shì guāngróng de, bāngzhù tóngbāo zhìfù shì shuāng xǐlínmén de guāngróng.
 

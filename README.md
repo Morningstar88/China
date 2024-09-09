@@ -170,6 +170,8 @@ Sure! Here are some serious and humorous mock-suspicious phrases in Mandarin tha
 
 https://www.reddit.com/r/programming/search/?q=china&type=link&cId=b00eb4a0-a3fe-4793-be5d-502fe4c7a061&iId=c834a4e5-e0fd-4fb4-9d6f-ce1a099b1b9f
 
+https://www.reddit.com/r/programming/comments/b3gqgu/no_sleep_no_sex_no_life_tech_workers_in_chinas/
+
 ### Closed Gitee lol
 
 https://www.reddit.com/r/programming/comments/uujsrk/gitee_chinas_answer_to_github_to_review_all_code/

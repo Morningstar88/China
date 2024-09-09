@@ -88,6 +88,9 @@ AI néng bāngzhù wǒmen liánjié tāmen de línghún ma?
 就像辣椒和小麦一样，找到平衡。
 Jiù xiàng làjiāo hé xiǎomài yīyàng, zhǎodào pínghéng.
 
+枪和钱。
+Qiāng hé qián.
+
 
 ## NOTES TO IMPORT
 

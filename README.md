@@ -174,6 +174,11 @@ https://www.reddit.com/r/programming/search/?q=china&type=link&cId=b00eb4a0-a3fe
 
 https://www.reddit.com/r/programming/comments/uujsrk/gitee_chinas_answer_to_github_to_review_all_code/
 
+### Dao De Ching Quotes
+
+https://edlatimore.com/tao-te-ching-quotes/
+
+
 
 ## OPEN SOURCE SUCCESS IN CHINA.
 

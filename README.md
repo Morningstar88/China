@@ -3,15 +3,26 @@
 ![image](https://github.com/user-attachments/assets/2e8cd1f2-e4f5-420c-a6dc-44a806101fc7)
 
 
-想像一下有一天醒來看到以下頭條新聞。
-Xiǎngxiàng yīxià yǒu yītiān xǐng lái kàn dào yǐxià tou tiáo xīnwén.
-
 
 健康文明的真正關鍵是什麼？
 Jiànkāng wénmíng de zhēnzhèng guānjiàn shì shénme?
 
-最聰明的人必須競相幫助那些被剝奪了財產的人。
-Zuì cōngmíng de rén bìxū jìngxiāng bāngzhù nàxiē bèi bōduóle cáichǎn de rén.
+如果最聪明的人相互竞争会怎么样？什么竞争？竞争是为了帮助工人阶级。Rúguǒ zuì cōngmíng de rén xiānghù jìngzhēng huì zěnme yàng? Shénme jìngzhēng? Jìngzhēng shì wèile bāngzhù gōngrén jiējí.
+
+我们如何激励他们？鼓舞人心的演讲？我想是的。
+Wǒmen rúhé jīlì tāmen? Gǔwǔ rénxīn de yǎnjiǎng? Wǒ xiǎng shì de. 
+
+但是我们为什么不使用金钱呢？它更快。
+Dànshì wǒmen wèishéme bù shǐyòng jīnqián ne? Tā gèng kuài.
+
+巨额现金奖励。开源项目。
+Jù'é xiànjīn jiǎnglì. Kāiyuán xiàngmù.
+
+这已经发生了。中国有很多开源项目。
+Zhè yǐjīng fāshēngle. Zhōngguó yǒu hěnduō kāiyuán xiàngmù.
+
+自己致富是光荣的，帮助同胞致富是双喜临门的光荣。
+Zìjǐ zhìfù shì guāngróng de, bāngzhù tóngbāo zhìfù shì shuāng xǐlínmén de guāngróng.
 
 我們如何衡量進展？
 Wǒmen rúhé héngliáng jìnzhǎn?

@@ -46,6 +46,12 @@ Yěxǔ wǒ kěyǐ chéngwéi yī míng lìzhì yǎnshuō jiā.
 您真的想再听一次烂蛋糕励志演讲吗？
 Nín zhēn de xiǎng zài tīng yīcì làn dàngāo lìzhì yǎnjiǎng ma?
 
+現代的問題更加微妙。
+Xiàndài de wèntí gèngjiā wéimiào.
+
+美國有三個政府部門。我想知道，軟體是政府的第四部門嗎？
+Měiguó yǒusān gè zhèngfǔ bùmén. Wǒ xiǎng zhīdào, ruǎntǐ shì zhèngfǔ de dì sì bùmén ma?
+
 我相信你们所有人！
 Wǒ xiāngxìn nǐmen suǒyǒu rén!
 

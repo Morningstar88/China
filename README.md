@@ -128,8 +128,16 @@ Shíjiān xiàn biàn dé yuè lái yuè fēngkuáng.
 我們能接觸到歷代的偉大聖賢嗎？
 Wǒmen néng jiēchù dào lìdài de wěidà shèngxián ma?
 
+## Protectionism Vs Laissez Faire
+
+經濟保護主義。 自由放任的經濟學。
+Jīngjì bǎohù zhǔyì.  Zìyóu fàngrèn de jīngjì xué. 
+
 在歐洲，我們稱之為「激烈的競爭」。
 Zài ōuzhōu, wǒmen chēng zhī wèi `jīliè de jìngzhēng'.
+
+如何解決這個難題？謎語。
+Rúhé jiějué zhège nántí? Míyǔ.
 
 # Village Building
 

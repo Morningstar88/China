@@ -72,6 +72,11 @@ Wǒmen qíxīn xiélì jiù néng qǔdé shènglì. Wǒmen suǒyǒu rén dōu ji
 用钱更容易。
 Yòng qián gèng róngyì.
 
+你希望笑容不真誠嗎？你想要假笑嗎？
+Nǐ xīwàng xiàoróng bù zhēnchéng ma? Nǐ xiǎng yào jiǎ xiào ma?
+
+
+
 自己致富是光荣的，帮助同胞致富是双喜临门的光荣。
 Zìjǐ zhìfù shì guāngróng de, bāngzhù tóngbāo zhìfù shì shuāng xǐlínmén de guāngróng.
 

@@ -52,6 +52,8 @@ Boluan Fanzheng (simplified Chinese: 拨乱反正; traditional Chinese: 撥亂�
 有中國特色的資本主義吉他。資本家。中國特色。
 Yǒu zhòng guó tèsè de zīběn zhǔyì jítā. Zīběnjiā. Zhōngguó tèsè.
 
+Famous authors who have written about their experiences during the movement include Nobel Laureate Liu Xiaobo, Jiang Rong, Ma Bo and Zhang Chengzhi, all of whom went to Inner Mongolia. Dai Sijie's Balzac and the Little Chinese Seamstress 
+
 您真的想再听一次烂蛋糕励志演讲吗？
 Nín zhēn de xiǎng zài tīng yīcì làn dàngāo lìzhì yǎnjiǎng ma?
 

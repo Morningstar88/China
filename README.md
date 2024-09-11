@@ -2,6 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/2e8cd1f2-e4f5-420c-a6dc-44a806101fc7)
 
+The Shanghai clique (simplified Chinese: 上海帮; traditional Chinese: 上海幫; pinyin: Shànghǎi bāng), also referred to as the Shanghai gang, Jiang clique, or Jiang faction...
 
 健康文明的真正關鍵是什麼？
 Jiànkāng wénmíng de zhēnzhèng guānjiàn shì shénme?
@@ -17,6 +18,11 @@ Dàn shénme jìngzhēng?
 (Chinese: 改革开放; pinyin: Gǎigé kāifàng
 
 Boluan Fanzheng (simplified Chinese: 拨乱反正; traditional Chinese: 撥亂反正; lit. 'Eliminating chaos and returning to normal'; trans. "Setting Things Right") 
+
+https://en.wikipedia.org/wiki/Shanghai_clique
+
+如何建構有尊嚴的社會安全網。安全網。社會的。尊嚴。建造。
+Rúhé jiàngòu yǒu zūnyán de shèhuì ānquán wǎng. Ānquán wǎng. Shèhuì de. Zūnyán. Jiànzào.
 
 是竞相帮助工人阶级？
 Shì jìngxiāng bāngzhù gōngrén jiējí? 

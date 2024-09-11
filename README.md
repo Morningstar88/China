@@ -12,6 +12,10 @@ Zuì cōngmíng de rén zhèngzài jìngzhēng.
 但什么竞争？
 Dàn shénme jìngzhēng?
 
+(Chinese: 改革开放; pinyin: Gǎigé kāifàng
+
+Boluan Fanzheng (simplified Chinese: 拨乱反正; traditional Chinese: 撥亂反正; lit. 'Eliminating chaos and returning to normal'; trans. "Setting Things Right") 
+
 是竞相帮助工人阶级？
 Shì jìngxiāng bāngzhù gōngrén jiējí? 
 

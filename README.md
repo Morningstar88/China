@@ -129,6 +129,9 @@ Jiù xiàng làjiāo hé xiǎomài yīyàng, zhǎodào pínghéng.
 枪和钱。
 Qiāng hé qián.
 
+我了解社會主義的魅力。引誘。社會主義。
+Wǒ liǎojiě shèhuì zhǔyì de mèilì. Yǐnyòu. Shèhuì zhǔyì.
+
 我记得十岁的时候去过一家美国超市。
 Wǒ jìdé shí suì de shíhòu qùguò yījiā měiguó chāoshì.
 

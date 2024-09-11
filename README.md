@@ -126,6 +126,14 @@ Shíjiān xiàn biàn dé yuè lái yuè fēngkuáng.
 我們能接觸到歷代的偉大聖賢嗎？
 Wǒmen néng jiēchù dào lìdài de wěidà shèngxián ma?
 
+在歐洲，我們稱之為「激烈的競爭」。
+Zài ōuzhōu, wǒmen chēng zhī wèi `jīliè de jìngzhēng'.
+
+# Village Building
+
+我認為村莊建設是一個值得實現的目標。
+Wǒ rènwéi cūnzhuāng jiànshè shì yīgè zhídé shíxiàn de mùbiāo.
+
 AI能幫助我們連結他們的靈魂嗎？
 AI néng bāngzhù wǒmen liánjié tāmen de línghún ma?
 

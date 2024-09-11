@@ -2,6 +2,17 @@
 
 ![image](https://github.com/user-attachments/assets/2e8cd1f2-e4f5-420c-a6dc-44a806101fc7)
 
+### Dance Between Laissez-Faire and Protectionism.
+### Michal emails. Roger and Mia Story. 
+### Bu Zeitian.  
+### China Open Source.
+### Front End more important than backend right now.
+### These are not ideas. They are already happening.
+### Basic arts of Civilization.
+### Mabao Wenming. Bread and Beer. Consulting.
+### Hard to let go.
+
+
 The Shanghai clique (simplified Chinese: 上海帮; traditional Chinese: 上海幫; pinyin: Shànghǎi bāng), also referred to as the Shanghai gang, Jiang clique, or Jiang faction...
 
 健康文明的真正關鍵是什麼？
@@ -14,6 +25,12 @@ Zuì cōngmíng de rén zhèngzài jìngzhēng.
 
 但什么竞争？
 Dàn shénme jìngzhēng?
+
+你可能會說我的想法很幼稚。我想提醒你兩件事。
+Nǐ kěnéng huì shuō wǒ de xiǎngfǎ hěn yòuzhì. Wǒ xiǎng tíxǐng nǐ liǎng jiàn shì.
+
+這些是開源專案。你可以改進我的簡單想法。
+Zhèxiē shì kāiyuán zhuān'àn. Nǐ kěyǐ gǎijìn wǒ de jiǎndān xiǎngfǎ.
 
 (Chinese: 改革开放; pinyin: Gǎigé kāifàng
 
@@ -67,6 +84,11 @@ Nín zhēn de xiǎng zài tīng yīcì làn dàngāo lìzhì yǎnjiǎng ma?
 
 現代的問題更加微妙。
 Xiàndài de wèntí gèngjiā wéimiào.
+
+資產階級自由.資產.階級.
+Zīchǎn jiējí zìyóu. Zīchǎn. Jiējí.
+
+階級 
 
 美國有三個政府部門。我想知道，軟體是政府的第四部門嗎？
 Měiguó yǒusān gè zhèngfǔ bùmén. Wǒ xiǎng zhīdào, ruǎntǐ shì zhèngfǔ de dì sì bùmén ma?

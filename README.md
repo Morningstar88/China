@@ -6,6 +6,8 @@
 健康文明的真正關鍵是什麼？
 Jiànkāng wénmíng de zhēnzhèng guānjiàn shì shénme?
 
+	中國特色社會主義
+Zhōngguó tèsè shèhuìzhǔyì
 最聪明的人正在竞争。
 Zuì cōngmíng de rén zhèngzài jìngzhēng.
 

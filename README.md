@@ -152,9 +152,15 @@ Nǐ xīwàng xiàoróng bù zhēnchéng ma? Nǐ xiǎng yào jiǎ xiào ma?
 但我不能过分侮辱任何国家。
 Dàn wǒ bùnéng guòfèn wǔrǔ rènhé guójiā.
 
+如何建構有尊嚴的社會安全網。
+Rúhé jiàngòu yǒu zūnyán de shèhuì ānquán wǎng.
+
 小心那个外来捣蛋鬼，他总是有坏主意。 Xiǎoxīn nàgè wàilái dǎodàn guǐ, tā zǒng shì yǒu huài zhǔyì.
 
 那个大鼻子坏蛋又在捣乱了！ Nàgè dà bízi huàidàn yòu zài dǎoluàn le!
+
+如何建構有尊嚴的社會安全網。安全網。社會的。尊嚴。建造。
+Rúhé jiàngòu yǒu zūnyán de shèhuì ānquán wǎng. Ānquán wǎng. Shèhuì de. Zūnyán. Jiànzào.
 
 境外势力正在试图破坏我们的稳定。 Jìngwài shìlì zhèngzài shìtú pòhuài wǒmen de wěndìng. - “Overseas forces are trying to undermine our stability.”
 

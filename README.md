@@ -88,6 +88,8 @@ Zìjǐ zhìfù shì guāngróng de, bāngzhù tóngbāo zhìfù shì shuāng xǐ
 我們如何衡量進展？
 Wǒmen rúhé héngliáng jìnzhǎn?
 
+https://en.wikipedia.org/wiki/Egalitarianism
+
 自己致富是光荣的，帮助同胞致富更是双倍的光荣。
 Zìjǐ zhìfù shì guāngróng de, bāngzhù tóngbāo zhìfù gèng shì shuāng bèi de guāngróng.
 

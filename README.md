@@ -141,6 +141,9 @@ Nǐ liǎojiě wǒ zhèng zǒu zài gāngsī shàng ma?
 我必须推动改变。
 Wǒ bìxū tuīdòng gǎibiàn.
 
+你希望笑容不真誠嗎？你想要假笑嗎？
+Nǐ xīwàng xiàoróng bù zhēnchéng ma? Nǐ xiǎng yào jiǎ xiào ma?
+
 但我不能过分侮辱任何国家。
 Dàn wǒ bùnéng guòfèn wǔrǔ rènhé guójiā.
 

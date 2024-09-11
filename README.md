@@ -47,6 +47,8 @@ Zhè yǐjīng fāshēngle. Zhōngguó yǒu hěnduō kāiyuán xiàngmù.
 也许我可以成为一名励志演说家。
 Yěxǔ wǒ kěyǐ chéngwéi yī míng lìzhì yǎnshuō jiā.
 
+Boluan Fanzheng (simplified Chinese: 拨乱反正; traditional Chinese: 撥亂反正; lit. 'Eliminating chaos and returning to normal'; trans. "Setting Things Right") r
+
 有中國特色的資本主義吉他。資本家。中國特色。
 Yǒu zhòng guó tèsè de zīběn zhǔyì jítā. Zīběnjiā. Zhōngguó tèsè.
 

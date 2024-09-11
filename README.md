@@ -101,11 +101,15 @@ Wǒmen rúhé jīlì tāmen?
 您會設定哪些里程碑？
 Nín huì shèdìng nǎxiē lǐchéngbēi?
 
+The three principles in Sun's doctrine are nationalism, democracy, and welfare. For nationalism, Sun wanted to create a unified Chinese identity that would enable the country to become modernized.
+
 明天想看什麼頭條新聞？
 Míngtiān xiǎng kàn shénme tóutiáo xīnwén?
 
 AI能幫助解決問題嗎？
 AI néng bāngzhù jiějué wèntí ma?
+
+https://en.wikipedia.org/wiki/Scientific_Outlook_on_Development
 
 如果一個人解決了問題，那麼每個人都可以解決它。
 Rúguǒ yīgèrén jiějuéle wèntí, nàme měi gèrén dōu kěyǐ jiějué tā.

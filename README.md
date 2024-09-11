@@ -10,7 +10,7 @@
 ### These are not ideas. They are already happening.
 ### Basic arts of Civilization.
 ### Mabao Wenming. Bread and Beer. Consulting. Would beer makers lose money?
-### Hard to let go.
+### It takes strength to let go.
 ### Open Source and Synarchy.
 ### 6th Five Year Plan Onwards.
 ### Million Flower Cultural Dialogue.
@@ -19,6 +19,9 @@
 ### The art of asking questions.
 ### Our ancestors gave us time. 
 ### Flying flat.
+### Open Source. If one person.
+### Dune Lessons. Humanity Golden Path.
+
 
 The Shanghai clique (simplified Chinese: 上海帮; traditional Chinese: 上海幫; pinyin: Shànghǎi bāng), also referred to as the Shanghai gang, Jiang clique, or Jiang faction...
 

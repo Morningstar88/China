@@ -102,6 +102,8 @@ Zìjǐ zhìfù shì guāngróng de, bāngzhù tóngbāo zhìfù gèng shì shuā
 我們如何激勵他們？
 Wǒmen rúhé jīlì tāmen?
 
+世界經濟是一首交響樂。
+Shìjiè jīngjì shì yī shǒu jiāoxiǎngyuè.
 
 
 您會設定哪些里程碑？

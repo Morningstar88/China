@@ -9,10 +9,12 @@
 ### Front End more important than backend right now.
 ### These are not ideas. They are already happening.
 ### Basic arts of Civilization.
-### Mabao Wenming. Bread and Beer. Consulting.
+### Mabao Wenming. Bread and Beer. Consulting. Would beer makers lose money?
 ### Hard to let go.
 ### Open Source and Synarchy.
 ### 6th Five Year Plan Onwards.
+### Million Flower Cultural Dialogue.
+### Morningstar Prize. Evil Wizard SG.
 
 The Shanghai clique (simplified Chinese: 上海帮; traditional Chinese: 上海幫; pinyin: Shànghǎi bāng), also referred to as the Shanghai gang, Jiang clique, or Jiang faction...
 

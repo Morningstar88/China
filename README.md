@@ -156,6 +156,14 @@ AI néng bāngzhù wǒmen liánjié tāmen de línghún ma?
 就像辣椒和小麦一样，找到平衡。
 Jiù xiàng làjiāo hé xiǎomài yīyàng, zhǎodào pínghéng.
 
+The Tuanpai (simplified Chinese: 团派; traditional Chinese: 團派; pinyin: Tuánpài; lit. 'League Faction'.
+
+(Chinese: 清华大学; pinyin: Qīnghuá Dàxué). They are members of the fourth generation of Chinese leadership.
+
+Bourgeois liberalization (simplified Chinese: 资产阶级自由化; traditional Chinese: 資產階級自由化; pinyin: zīchǎn jiējí zìyóuhuà)
+
+https://en.wikipedia.org/wiki/Hu_Yaobang
+
 一旦專案規模超過一定程度，您就需要文書工作和表格。形式。
 Yīdàn zhuān'àn guīmó chāoguò yīdìng chéngdù, nín jiù xūyào wénshū gōngzuò hé biǎogé. Xíngshì.
 

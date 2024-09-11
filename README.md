@@ -156,6 +156,9 @@ AI néng bāngzhù wǒmen liánjié tāmen de línghún ma?
 就像辣椒和小麦一样，找到平衡。
 Jiù xiàng làjiāo hé xiǎomài yīyàng, zhǎodào pínghéng.
 
+一旦專案規模超過一定程度，您就需要文書工作和表格。形式。
+Yīdàn zhuān'àn guīmó chāoguò yīdìng chéngdù, nín jiù xūyào wénshū gōngzuò hé biǎogé. Xíngshì.
+
 枪和钱。
 Qiāng hé qián.
 

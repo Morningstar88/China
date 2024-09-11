@@ -11,7 +11,8 @@
 ### Basic arts of Civilization.
 ### Mabao Wenming. Bread and Beer. Consulting.
 ### Hard to let go.
-
+### Open Source and Synarchy.
+### 6th Five Year Plan Onwards.
 
 The Shanghai clique (simplified Chinese: 上海帮; traditional Chinese: 上海幫; pinyin: Shànghǎi bāng), also referred to as the Shanghai gang, Jiang clique, or Jiang faction...
 
